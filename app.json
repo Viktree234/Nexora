@@ -1,7 +1,7 @@
 {
   "name": "Nexora",
   "description": "",
-  "keywords": ["noedjs"],
+  "keywords": ["nodejs"],
   "success_url": "/",
   "stack": "container",
   "env": {
