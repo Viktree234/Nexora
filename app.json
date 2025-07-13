@@ -1,7 +1,7 @@
 {
-  "name": "Nexora",
+  "name": "nexora",
   "description": "",
-  "keywords": ["nodejs"],
+  "keywords": ["noedjs"],
   "success_url": "/",
   "stack": "container",
   "env": {
@@ -33,7 +33,7 @@
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
       "required": false,
-      "value": "❤️,HIM"
+      "value": "❤️,LyFE"
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku app name, same as above entered.",

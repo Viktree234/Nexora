@@ -37,11 +37,11 @@ BOT_LANG=es
 
 ### 1️⃣ Deploy on Koyeb
 
-[Deploy Now](https://nexora-delta.vercel.app/) to set up your bot on Koyeb.
+[Deploy Now](https://levanter-delta.vercel.app/) to set up your bot on Koyeb.
 
 ### 2️⃣ Deploy on Render
 
-[Deploy Now](https://nexora-delta.vercel.app/) to set up your bot on Render.
+[Deploy Now](https://levanter-delta.vercel.app/) to set up your bot on Render.
 
 ### 3️⃣ Deploy on a VPS or PC (Ubuntu Example)
 
@@ -79,7 +79,7 @@ bash <(curl -fsSL http://bit.ly/43JqREw)
 4. **Clone the Repository and Install Dependencies:**
 
    ```sh
-   git clone https://github.com/lyfe00011/nexora botName
+   git clone https://github.com/lyfe00011/levanter botName
    cd botName
    yarn install
    ```
@@ -139,5 +139,5 @@ A special thanks to:
 
 For more information on setting up environment variables and FAQs, please visit:
 
-- [Bot Environment Variables](https://nexora-delta.vercel.app/)  
-- [Frequently Asked Questions](https://nexora-delta.vercel.app/)
+- [Bot Environment Variables](https://levanter-delta.vercel.app/)  
+- [Frequently Asked Questions](https://levanter-delta.vercel.app/)
